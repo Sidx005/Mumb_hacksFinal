@@ -1,0 +1,247 @@
+[
+  {
+    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
+    "name": "HP Notebook Intel Core i5 6300U 2.4GHz",
+    "price": 101232.0,
+    "rating": 4.34,
+    "stockQuantity": 609592
+  },
+  {
+    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
+    "name": "Dell 2 in 1 Convertible Intel Core i5 7Y54 1.2GHz",
+    "price": 96596.64,
+    "rating": 4.22,
+    "stockQuantity": 264340
+  },
+  {
+    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
+    "name": "Dell 2 in 1 Convertible Intel Core i5 7Y54 1.2GHz",
+    "price": 96596.64,
+    "rating": 4.22,
+    "stockQuantity": 264340
+  },
+  {
+    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
+    "name": "Lenovo Notebook Intel Celeron Dual Core N3350 1.1GHz",
+    "price": 16221.1,
+    "rating": 0.94,
+    "stockQuantity": 211838
+  },
+  {
+    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
+    "name": "Acer Aspire Intel Core i3 6100U 2.3GHz",
+    "price": 45766.5,
+    "rating": 2.12,
+    "stockQuantity": 674594
+  },
+  {
+    "productId": "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",
+    "name": "HP Pavilion Intel Core i5 7200U 2.5GHz",
+    "price": 79342.82,
+    "rating": 1.84,
+    "stockQuantity": 632321
+  },
+  {
+    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
+    "name": "Asus ROG Strix Intel Core i7 8750H 2.2GHz",
+    "price": 116235.0,
+    "rating": 3.98,
+    "stockQuantity": 571285
+  },
+  {
+    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
+    "name": "HP Chromebook Intel Celeron N3350 1.1GHz",
+    "price": 20123.54,
+    "rating": 1.42,
+    "stockQuantity": 926038
+  },
+  {
+    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
+    "name": "Acer Nitro Intel Core i5 8300H 2.3GHz",
+    "price": 75312.4,
+    "rating": 2.8,
+    "stockQuantity": 707968
+  },
+  {
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "name": "Lenovo Yoga Intel Core i7 7500U 2.7GHz",
+    "price": 122134.2,
+    "rating": 1.49,
+    "stockQuantity": 803796
+  },
+  {
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "name": "Asus ZenBook Intel Core i5 8265U 1.6GHz",
+    "price": 90211.89,
+    "rating": 2.27,
+    "stockQuantity": 537442
+  },
+  {
+    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
+    "name": "Microsoft Surface Pro Intel Core i7 8650U 1.9GHz",
+    "price": 150433.6,
+    "rating": 0.72,
+    "stockQuantity": 823996
+  },
+  {
+    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
+    "name": "HP Spectre Intel Core i5 1035G1 1.0GHz",
+    "price": 90345.45,
+    "rating": 2.89,
+    "stockQuantity": 271395
+  },
+  {
+    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
+    "name": "Acer Predator Intel Core i9 9900K 3.6GHz",
+    "price": 197654.3,
+    "rating": 3.68,
+    "stockQuantity": 363652
+  },
+  {
+    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
+    "name": "Apple MacBook Air M1 8-Core",
+    "price": 132344.2,
+    "rating": 4.77,
+    "stockQuantity": 628934
+  },
+  {
+    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
+    "name": "HP Envy Intel Core i5 1135G7 2.4GHz",
+    "price": 78332.89,
+    "rating": 3.53,
+    "stockQuantity": 208315
+  },
+  {
+    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
+    "name": "Lenovo ThinkPad Intel Core i7 10510U 1.8GHz",
+    "price": 127541.88,
+    "rating": 4.61,
+    "stockQuantity": 338142
+  },
+  {
+    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
+    "name": "HP ProBook Intel Core i5 1135G7 2.4GHz",
+    "price": 85443.1,
+    "rating": 2.6,
+    "stockQuantity": 604953
+  },
+  {
+    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
+    "name": "Dell Inspiron Intel Core i7 8565U 1.8GHz",
+    "price": 91421.76,
+    "rating": 2.31,
+    "stockQuantity": 269364
+  },
+  {
+    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
+    "name": "Acer Swift Intel Core i5 8250U 1.6GHz",
+    "price": 65843.89,
+    "rating": 3.84,
+    "stockQuantity": 383907
+  },
+  {
+    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
+    "name": "Asus VivoBook Intel Core i5 1035G1 1.0GHz",
+    "price": 64345.0,
+    "rating": 2.95,
+    "stockQuantity": 976122
+  },
+  {
+    "productId": "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",
+    "name": "HP Omen Intel Core i7 10750H 2.6GHz",
+    "price": 115432.6,
+    "rating": 3.12,
+    "stockQuantity": 536784
+  },
+  {
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "name": "Microsoft Surface Laptop Intel Core i5 1035G7 1.2GHz",
+    "price": 90234.99,
+    "rating": 3.5,
+    "stockQuantity": 112399
+  },
+  {
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "name": "Acer Chromebook Intel Celeron N4000 1.1GHz",
+    "price": 16354.8,
+    "rating": 1.68,
+    "stockQuantity": 824371
+  },
+  {
+    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
+    "name": "Lenovo IdeaPad Slim Intel Core i3 1005G1 1.2GHz",
+    "price": 40765.6,
+    "rating": 3.27,
+    "stockQuantity": 284631
+  },
+  {
+    "productId": "9d5fafbc-312b-47e8-ada1-283918f0c3b5",
+    "name": "Dell Latitude Intel Core i5 10210U 1.6GHz",
+    "price": 84321.99,
+    "rating": 4.12,
+    "stockQuantity": 429846
+  },
+  {
+    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
+    "name": "Asus TUF Gaming Intel Core i7 9750H 2.6GHz",
+    "price": 95423.9,
+    "rating": 4.09,
+    "stockQuantity": 317845
+  },
+  {
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "name": "Microsoft Surface Pro 7 Intel Core i5 1035G4 1.1GHz",
+    "price": 73421.76,
+    "rating": 3.61,
+    "stockQuantity": 416239
+  },
+  {
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "name": "Strigose Beard Lichen",
+    "price": 373.81,
+    "rating": 1.06,
+    "stockQuantity": 35383
+  },
+  {
+    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
+    "name": "HP EliteBook Intel Core i7 10510U 1.8GHz",
+    "price": 110543.2,
+    "rating": 4.51,
+    "stockQuantity": 134512
+  },
+  {
+    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
+    "name": "Lenovo IdeaPad Slim 3 Intel Core i3 1005G1 1.2GHz",
+    "price": 40765.6,
+    "rating": 3.27,
+    "stockQuantity": 284631
+  },
+  {
+    "productId": "07238d8e-0037-4972-87ca-0df206ee3e42",
+    "name": "HP EliteBook Intel Core i7 10510U 1.8GHz",
+    "price": 110543.2,
+    "rating": 4.51,
+    "stockQuantity": 134512
+  },
+  {
+    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
+    "name": "HP EliteBook Intel Core i7 10510U 1.8GHz",
+    "price": 110543.2,
+    "rating": 4.51,
+    "stockQuantity": 134512
+  },
+  {
+    "productId": "8d4bf814-65d4-4df4-84cc-68911d925fdf",
+    "name": "Microsoft Surface Laptop 3 Intel Core i5 1035G7 1.2GHz",
+    "price": 90234.99,
+    "rating": 3.5,
+    "stockQuantity": 112399
+  },
+  {
+    "productId": "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",
+    "name": "HP Chromebook x360 Intel Pentium N5000 1.1GHz Convertible",
+    "price": 23432.45,
+    "rating": 2.35,
+    "stockQuantity": 752396
+  }
+]
